@@ -1,5 +1,6 @@
 # Ant Coloy Optimization
 ## Problem statement
+https://www.irjmets.com/uploadedfiles/paper/issue_12_december_2023/47614/final/fin_irjmets1703410876.pdf  
 **0/1 Knapsack**  
 The 0/1 Knapsack Problem is an optimization problem where we have a bag with a limited weight capacity and several items with different weights and values. We must select items to get the maximum total value without exceeding the bag's weight capacity. Each item can either be selected completely (1) or not selected at all (0), meaning we cannot take a fraction of an item.  
 
