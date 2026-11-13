@@ -367,3 +367,6 @@ plt.show()
 ```
 
 <img width="576" height="494" alt="image" src="https://github.com/user-attachments/assets/e7480983-e5e2-412a-9f65-760920e82f7b" />
+
+<img width="699" height="529" alt="image" src="https://github.com/user-attachments/assets/045d3dbe-3132-4aca-9b66-f793c0172caa" />
+
